@@ -204,17 +204,17 @@ button {
    text-decoration: none;
 }
 
-.or-login {
+.social-login {
     margin-top: 35px;
     color: #325480;
 }
-.or-login:hover {
+.social-login:hover {
     cursor: pointer;
     text-decoration: underline;
 }
 
 /* ICONS */
-.list-icons {
+.social-icons {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -222,16 +222,16 @@ button {
 	padding-top: 24px;
 }
 
-.list-icons a {
+.social-icons a {
 	color: #325480;
 	text-decoration: none;
 }
 
-.list-icons a:hover {
+.social-icons a:hover {
 	color:#FFF;
 }
 
-.list-icons svg {
+.social-icons svg {
 	width: 20px;
 	height: 20px;
 } 
